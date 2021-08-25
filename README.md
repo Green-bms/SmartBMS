@@ -4,7 +4,7 @@ https://www.green-bms.com/smart-bms/
 
 ## Description
 Smart BMS is an Open Source Battery Management System for Lithium Cells (Lifepo4, Li-ion, LTO, NCM, etc.) Battery Pack.
-![In a single picture](https://www.green-bms.com/wp-content/uploads/2021/06/Green_bms_functional-768x768.png)
+!(https://www.green-bms.com/wp-content/uploads/2021/06/Green_bms_functional-768x768.png)
 
 The main functions of BMS are:
 - To protect cells against overvoltage
@@ -32,6 +32,7 @@ Control Unit can be connected with a Smartphone (or a Tablet) by Bluetooth.
 By “Green BMS” Android app (available on Play Store)) it is possible to check the Battery Pack status (total voltage, current load, state of charge…) , to check the actual voltage and temperature values of each cell and to perform several settings.
 
 ## Tutorials
+
 The instructions for a correct use of the BMS are enclosed in a series of video tutorials on the Youtube channel:
 
 https://www.youtube.com/channel/UCdJnQnmzJSQNOAGbZR5iExA
@@ -42,7 +43,19 @@ Subscribe please... :smile:
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
 
 ## Warning
+
 Lithium and other batteries are dangerous and must be treated with care.
+
 Lithium and other batteries are potentially hazardous and can present a serious fire hazard if damaged, defective or improperly used.
+
 Green BMS is not a professional and certified safety project.
-Green BMS assumes no responsibility for any errors or inaccuracies that may appear in any documentation or file or any software that may be provided
+
+Green BMS assumes no responsibility for any errors or inaccuracies that may appear in any documentation or file or any software that may be provided.
+
+The use of this project is done entirely at your own risk and responsibility.
+
+The use of this project may not be compliant with local laws or regulations.
+
+## Warning
+
+Lithium and oth
