@@ -43,6 +43,15 @@ Subscribe please... :smile:
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
 
+## Open source Development applications
+
+The project was created using the following Open source applications:
+- **Kikad** : to design cell module and Interface board
+- **QElectroTech** : to design Limiter
+- **Librecad 2D** : to desingn Control Unit Box
+- **Arduino IDE** : to design the code of Cell Module(Attiny) and Control Unit(Arduino Mega)
+- **Mit App Inventor** : to design the Android Aplication
+
 ## Warning
 
 Lithium and other batteries are dangerous and must be treated with care.
