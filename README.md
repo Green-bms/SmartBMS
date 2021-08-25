@@ -50,7 +50,7 @@ The project was created using the following Open source applications:
 - **QElectroTech** : to design Limiter
 - **Librecad 2D** : to desingn Control Unit Box
 - **Arduino IDE** : to design the code of Cell Module(Attiny) and Control Unit(Arduino Mega)
-- **Mit App Inventor** : to design the Android Aplication
+- **Mit App Inventor** : to design the Android Application
 
 ## Warning
 
