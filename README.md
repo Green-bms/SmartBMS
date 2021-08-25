@@ -43,5 +43,6 @@ Subscribe please... :smile:
 
 ## Warning
 Lithium and other batteries are dangerous and must be treated with care.
-Lithium and other batteries are potentially hazardous and can present a serious FIRE HAZARD if damaged, defective or improperly used.
-Green BMS 
+Lithium and other batteries are potentially hazardous and can present a serious fire hazard if damaged, defective or improperly used.
+Green BMS is not a professional and certified safety project.
+Green BMS assumes no responsibility for any errors or inaccuracies that may appear in any documentation or file or any software that may be provided
