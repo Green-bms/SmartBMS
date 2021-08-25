@@ -30,7 +30,7 @@ When just one cell of the pack is balancing, Control Unit activates the current 
 
 Control Unit can be connected with a Smartphone (or a Tablet) by Bluetooth.
 
-By “Green BMS” Android app (available on Play Store)) it is possible to check the Battery Pack status (total voltage, current load, state of charge…) , to check the actual voltage and temperature values of each cell and to perform several settings.
+By “Green BMS” Android app (available on Play Store) it is possible to check the Battery Pack status (total voltage, current load, state of charge…) , to check the actual voltage and temperature values of each cell and to perform several settings.
 
 ## Tutorials
 
