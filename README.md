@@ -40,3 +40,8 @@ Subscribe please... :smile:
 
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
+
+## Warning
+Lithium and other batteries are dangerous and must be treated with care.
+Lithium and other batteries are potentially hazardous and can present a serious FIRE HAZARD if damaged, defective or improperly used.
+Green BMS 
