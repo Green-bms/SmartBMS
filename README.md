@@ -33,7 +33,10 @@ By “Green BMS” Android app (available on Play Store)) it is possible to chec
 
 ## Tutorials
 The instructions for a correct use of the BMS are enclosed in a series of video tutorials on the Youtube channel:
+
 https://www.youtube.com/channel/UCdJnQnmzJSQNOAGbZR5iExA
-Subscribe please...:simple_smile:
+
+Subscribe please... :simple_smile:
+
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
