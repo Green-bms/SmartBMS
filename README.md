@@ -36,7 +36,7 @@ The instructions for a correct use of the BMS are enclosed in a series of video 
 
 https://www.youtube.com/channel/UCdJnQnmzJSQNOAGbZR5iExA
 
-Subscribe please... :simple_smile:
+Subscribe please... :smile:
 
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
