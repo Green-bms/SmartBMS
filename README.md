@@ -46,9 +46,9 @@ Subscribe please... :smile:
 ## Open source Development applications
 
 The project was created using the following Open source applications:
-- **Kikad** : to design cell module and Interface board
+- **KiCad** : to design cell module and Interface board
 - **QElectroTech** : to design Limiter
-- **Librecad 2D** : to desingn Control Unit Box
+- **LibreCad 2D** : to desingn Control Unit Box
 - **Arduino IDE** : to design the code of Cell Module(Attiny) and Control Unit(Arduino Mega)
 - **Mit App Inventor** : to design the Android Application
 
