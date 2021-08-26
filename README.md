@@ -58,11 +58,9 @@ Lithium and other batteries are dangerous and must be treated with care.
 
 Lithium and other batteries are potentially hazardous and can present a serious fire hazard if damaged, defective or improperly used.
 
-Green BMS is not a professional and safety certified project.
+Green BMS is a "do it yourself" project, with no warranties whatsoever.
 
 Green BMS assumes no responsibility for any errors or inaccuracies that may appear in any documentation or file or any software that may be provided.
-
-There is no warranty, it may not work as expected or at all.
 
 The use of this project is done entirely at your own risk and responsibility.
 
