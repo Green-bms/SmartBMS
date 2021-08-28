@@ -32,6 +32,12 @@ Control Unit can be connected with a Smartphone (or a Tablet) by Bluetooth.
 
 By “Green BMS” Android app (available on Play Store) it is possible to check the Battery Pack status (total voltage, current load, state of charge…) , to check the actual voltage and temperature values of each cell and to perform several settings.
 
+## Android App free download
+The Green BMS Android app is available here: 
+[Green-BMS App](https://play.google.com/store/apps/details?id=appinventor.ai_sergio_ghirardelli75.Green_bms_0_0&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+![alt-text](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
+
+
 ## Tutorials
 
 The instructions for a correct use of the BMS are enclosed in a series of video tutorials on the Youtube channel:
@@ -42,6 +48,7 @@ Subscribe please... :smile:
 
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
+- How to set Arduino IDE to program Attiny (https://www.youtube.com/watch?v=6rO6VPN9XSg)
 
 ## Open source Development applications
 
@@ -65,6 +72,15 @@ Green BMS assumes no responsibility for any errors or inaccuracies that may appe
 The use of this project is done entirely at your own risk and responsibility.
 
 The use of this project may not be compliant with local laws or regulations.
+
+## Open Source Hardware Certification
+
+Green BMS has been certified as open source hardware by the Open Source Hardware Association, with the UID: IT000007.
+
+Certificate link: (https://certification.oshwa.org/it000007.html)
+
+![alt-text](https://www.green-bms.com/wp-content/uploads/2021/08/OSHW_mark_IT000007-768x563.png)
+
 
 ## License
 
