@@ -35,7 +35,6 @@ By “Green BMS” Android app (available on Play Store) it is possible to check
 ## Android App free download
 The Green BMS Android app is available here: 
 [Green-BMS App](https://play.google.com/store/apps/details?id=appinventor.ai_sergio_ghirardelli75.Green_bms_0_0&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-![alt-text](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)
 
 
 ## Tutorials
@@ -78,8 +77,6 @@ The use of this project may not be compliant with local laws or regulations.
 Green BMS has been certified as open source hardware by the Open Source Hardware Association, with the UID: IT000007.
 
 Certificate link: (https://certification.oshwa.org/it000007.html)
-
-![alt-text](https://www.green-bms.com/wp-content/uploads/2021/08/OSHW_mark_IT000007-768x563.png)
 
 
 ## License
