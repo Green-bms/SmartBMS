@@ -3,9 +3,9 @@ Open source Smart Battery Management System
 https://www.green-bms.com/smart-bms/
 
 ## Description
-Smart BMS is an Open Source Battery Management System for Lithium Cells (Lifepo4, Li-ion, LTO, NCM, etc.) Battery Pack.
+Smart BMS is an Open Source Battery Management System for Lithium Cells (Lifepo4, Li-ion, NCM, etc.) Battery Pack.
 
-![alt-text](https://www.green-bms.com/wp-content/uploads/2021/06/Green_bms_functional-768x768.png)
+![alt-text](https://www.green-bms.com/wp-content/uploads/2021/09/Green_bms_functional-1024x1024.png)
 
 The main functions of BMS are:
 - To protect cells against overvoltage
@@ -48,6 +48,9 @@ Subscribe please... :smile:
 - How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
 - How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
 - How to set Arduino IDE to program Attiny (https://www.youtube.com/watch?v=6rO6VPN9XSg)
+- How to add Tinywires library on Arduino IDE (https://www.youtube.com/watch?v=qAVW4VjKZr4&t=20s)
+- How to perform cell voltage calibration (https://www.youtube.com/watch?v=NX-4lvosJMs&t=3s)
+- How to perform balancing check (https://www.youtube.com/watch?v=cf4tHNtKE1Q)
 
 ## Open source Development applications
 
