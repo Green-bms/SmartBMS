@@ -1,11 +1,11 @@
 # SmartBMS
 Open source Smart Battery Management System
-https://www.green-bms.com/smart-bms/
+https://hackaday.io/project/181453-green-bms
 
 ## Description
 Smart BMS is an Open Source Battery Management System for Lithium Cells (Lifepo4, Li-ion, NCM, etc.) Battery Pack.
 
-![alt-text](https://www.green-bms.com/wp-content/uploads/2021/09/Green_bms_functional-1024x1024.png)
+![alt-text](https://cdn.hackaday.io/images/3693341633270233795.png)
 
 The main functions of BMS are:
 - To protect cells against overvoltage
@@ -13,10 +13,10 @@ The main functions of BMS are:
 - To balance the cells 
 
 Smart BMS consists of four main components:
-1. Cell Module (https://www.green-bms.com/cell-module/)
-2. Control Unit (https://www.green-bms.com/control-unit/)
-3. Limiter (https://www.green-bms.com/limiter/)
-4. Android App (https://www.green-bms.com/android-app/)
+1. Cell Module (https://hackaday.io/project/181453-green-bms/log/198376-green-bms-cell-module)
+2. Control Unit (https://hackaday.io/project/181453-green-bms/log/198414-green-bms-control-unit)
+3. Limiter (https://hackaday.io/project/181453-green-bms/log/198378-green-bms-limiter)
+4. Android App (https://hackaday.io/project/181453-green-bms/log/198377-green-bms-android-app)
 
 The voltage and the temperature values of each cell are acquired by the relevant Cell Module (based on Attiny microcontroller) and sent to Control Unit (based on Arduino Mega microcontroller) through a serial I2C line.
 
@@ -39,18 +39,14 @@ The Green BMS Android app is available here:
 
 ## Tutorials
 
-The instructions for a correct use of the BMS are enclosed in a series of video tutorials on the Youtube channel:
+Step by step instructions for meke Green BMS are available here: https://www.instructables.com/Green-BMS-Open-Source-Smart-Battery-Management-Sys/
+ 
+
+## Youtube channel
 
 https://www.youtube.com/channel/UCdJnQnmzJSQNOAGbZR5iExA
 
 Subscribe please... :smile:
-
-- How to make Green BMS (https://www.youtube.com/watch?v=LHrENJF3j-4)
-- How to set cell modules address (https://www.youtube.com/watch?v=e1lMxtpzjrA)
-- How to set Arduino IDE to program Attiny (https://www.youtube.com/watch?v=6rO6VPN9XSg)
-- How to add Tinywires library on Arduino IDE (https://www.youtube.com/watch?v=qAVW4VjKZr4&t=20s)
-- How to perform cell voltage calibration (https://www.youtube.com/watch?v=NX-4lvosJMs&t=3s)
-- How to perform balancing check (https://www.youtube.com/watch?v=cf4tHNtKE1Q)
 
 ## Open source Development applications
 
