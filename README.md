@@ -39,7 +39,7 @@ The Green BMS Android app is available here:
 
 ## Tutorials
 
-Step by step instructions for meke Green BMS are available here:
+Step by step instructions for make Green BMS are available here:
 https://hackaday.io/project/181453/instructions
  
 
