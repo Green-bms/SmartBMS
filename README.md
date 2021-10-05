@@ -40,7 +40,7 @@ The Green BMS Android app is available here:
 ## Tutorials
 
 Step by step instructions for meke Green BMS are available here:
-https://www.instructables.com/Green-BMS-Open-Source-Smart-Battery-Management-Sys
+https://hackaday.io/project/181453/instructions
  
 
 ## Youtube channel
