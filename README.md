@@ -1,5 +1,8 @@
 # SmartBMS
 Open source Smart Battery Management System
+Youtube presentation:
+https://youtu.be/0XNe25lMs6U?si=eK-90N3kao_sy4zy
+Official page:
 https://hackaday.io/project/181453-green-bms
 
 ## Description
