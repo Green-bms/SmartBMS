@@ -1,4 +1,4 @@
-#ifndef functions_4_h
+#ifndef functions_4_h     	//this is a header file
 #define functions_4_h
 
 #include <Arduino.h>
